@@ -1,0 +1,4 @@
+hu\elte\issuetracker\entities\Foo.class
+hu\elte\issuetracker\IssueTrackerApplication.class
+hu\elte\issuetracker\repositories\FooRepository.class
+hu\elte\issuetracker\controllers\FooController.class
